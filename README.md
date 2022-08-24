@@ -1,1 +1,2 @@
 # QbasicPoker
+For seeing how the program is working you need DOSBOX (https://www.dosbox.com/download.php?main=1) or other emulator for DOS at your choice. If you will use DOSBOX you must setup the directory where you want to work; for instance: "mount C C:\Qbasic\ ". For the last command to work I supposed that you got the qbasic.exe, you made a dir Qbasic on drive C, where you have now the qbasic.exe and my poker1en.bas from here. Run qbasic.exe, open poker1en.bas in qbasic, and from qbasic menu "Run" it.  
